@@ -33,7 +33,7 @@ const CartItem = ({ onContinueShopping }) => {
   };
 
   const handleCheckoutShopping = (e) => {
-    alert('Functionality to be added for future reference');
+    alert('Never gonna give you up! Never gonna let you down!');
     };
 
   const handleDecrement = (item) => {
